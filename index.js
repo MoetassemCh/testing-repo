@@ -1,10 +1,10 @@
 let a=1;
 let b=5;
-let c=6;
+let c=1;
 let d=4;
 
 const t=a+b;
-const total=c+d;
+const t2=c+d;
 
 
 console.log(t);
