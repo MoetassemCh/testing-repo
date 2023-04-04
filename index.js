@@ -1,6 +1,6 @@
 let a=1;
 let b=5;
-let c=1;
+let c=6;
 let d=4;
 
 const t=a+b;
